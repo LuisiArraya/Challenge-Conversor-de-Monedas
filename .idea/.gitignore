@@ -1,3 +1,18 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+# Ignorar archivos de configuración del IDE
+*.iml
+.idea/
+.vscode/
+
+# Ignorar bibliotecas externas
+lib/
+
+# Ignorar archivos compilados
+*.class
+bin/
+
+# Ignorar otros archivos innecesarios
+*.log
+*.tmp
